@@ -9,8 +9,8 @@
       "x": 1148,
       "y": 731
     },
-	  {
-	    "name": "r/Morroco flag alternate spot",
+    {
+      "name": "r/Morroco flag alternate spot",
       "sources": [
         "https://cdn.discordapp.com/attachments/1131633763038793851/1132291153606213814/small_flag_v9.png"
       ],
@@ -18,12 +18,12 @@
       "y": 178
     },
     {
-	    "name": "SEATO",
+      "name": "SEATO",
       "sources": [
-        "https://cdn.discordapp.com/attachments/1132257408148836352/1132257408387928174/image.png"
+        "https://media.discordapp.net/attachments/1131429845683937450/1132309652453998672/image.png"
       ],
-      "x": 211,
-      "y": 829
+      "x": 230,
+      "y": 830
     }
   ],
   "whitelist": [],
