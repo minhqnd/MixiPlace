@@ -24,7 +24,7 @@ Hướng dẫn setup:
 
 ![overlay](https://i.imgur.com/uKwMWei.png)
 
-3.1. [Vào template](https://raw.githubusercontent.com/LiquidRekto/rplacevnhideout/master/vnflag.json)
+3.1. [Vào template](https://new.reddit.com/r/place/?jsontemplate=https://raw.githubusercontent.com/LiquidRekto/rplacevnhideout/master/vnflag.json)
 
 Lưu ý: nếu không thấy template thì hãy reload
 
