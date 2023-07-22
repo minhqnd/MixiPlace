@@ -1,0 +1,15 @@
+{
+  "contact": "",
+  "templates": [
+    {
+      "name": "r/place VN",
+      "sources": [
+        "https://i.imgur.com/WVNdNYi.png"
+      ],
+      "x": 649,
+      "y": 731
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
