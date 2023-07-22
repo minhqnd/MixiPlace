@@ -24,22 +24,13 @@ Hướng dẫn setup:
 
 ![overlay](https://i.imgur.com/uKwMWei.png)
 
-3.1. [Template mirror 1](https://new.reddit.com/r/place/?jsontemplate=https://raw.githubusercontent.com/ntbeastboy/rplacevietnam/main/vnflag.json)
-
-hoặc 
-
-[Template mirror 2](https://raw.githubusercontent.com/LiquidRekto/rplacevnhideout/master/vnflag.json)
-
-
-Cả 2 y chang nhau, cái nào bị lệch thì dùng cái còn lại :3
+3.1. [Vào template](https://raw.githubusercontent.com/LiquidRekto/rplacevnhideout/master/vnflag.json)
 
 Lưu ý: nếu không thấy template thì hãy reload
 
 3.2. Nếu cách này không được thì vào menu cài đặt 
 ![options](https://i.imgur.com/MK4J8sq.png) 
-và dán link **https://raw.githubusercontent.com/ntbeastboy/rplacevietnam/main/vnflag.json** hoặc **https://raw.githubusercontent.com/LiquidRekto/rplacevnhideout/master/vnflag.json** vào mục "Template URL"
-
-Again, cả 2 y chang nhau, cái nào bị lệch thì dùng cái còn lại :3
+và dán link **https://raw.githubusercontent.com/LiquidRekto/rplacevnhideout/master/vnflag.json** vào mục "Template URL"
 
 4. Nhấn "Always allow all domains"
 ![menu](https://media.discordapp.net/attachments/1131430894511607870/1131655632987111617/image.png)
