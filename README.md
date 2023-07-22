@@ -39,6 +39,17 @@ và dán link **https://raw.githubusercontent.com/LiquidRekto/rplacevnhideout/ma
 
 https://github.com/ntbeastboy/rplacevietnam/assets/99698334/0d6baaae-b78a-4e8e-a8b3-4d77904ffb51
 
+Hướng dẫn setup bot treo máy
+---------------------------------------
+Bạn không muốn dành cả ngày ngồi trên máy tính đặt pixel? Muốn cống hiến cho r/place trong lúc bạn ngủ? Hãy tải autoscript ngay!
+Nếu bạn đã tải tampermonkey thì hãy nhấn link phía dưới, nếu không, hãy xem phần trên
+Reload để script có tác dụng
+<h2> 
+
+[Tải ngay script treo máy]
+
+</h2>
+
 Một vài tính năng của phần mềm overlay
 ----------------------------------------
 Sau khi nhấn vào nút options ![options](https://i.imgur.com/MK4J8sq.png) , một menu sẽ hiện ra
