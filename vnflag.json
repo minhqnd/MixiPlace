@@ -8,6 +8,14 @@
       ],
       "x": 1148,
       "y": 731
+    },
+    {
+      "name": "SEATO",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1131929380935970846/1132253707430535198/SEATOLarge.png"
+      ],
+      "x": 211,
+      "y": 829
     }
   ],
   "whitelist": [],
