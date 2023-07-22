@@ -1,5 +1,5 @@
 {
-  "contact": "",
+  "contact": "rPlaceVNTEST",
   "templates": [
     {
       "name": "r/place VN",
@@ -12,7 +12,7 @@
     {
       "name": "SEATO",
       "sources": [
-        "https://cdn.discordapp.com/attachments/1131929380935970846/1132253707430535198/SEATOLarge.png"
+        "https://cdn.discordapp.com/attachments/1132257408148836352/1132257408387928174/image.png"
       ],
       "x": 211,
       "y": 829
