@@ -46,7 +46,7 @@ Nếu bạn đã tải tampermonkey thì hãy nhấn link phía dưới, nếu k
 Reload để script có tác dụng
 <h2> 
 
-[Tải ngay script treo máy]
+[Tải ngay script treo máy](https://github.com/j4pa0/placevn/raw/main/placevn-userscript.user.js)
 
 </h2>
 
