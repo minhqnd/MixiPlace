@@ -9,14 +9,14 @@
       "x": 1148,
       "y": 731
     },
-	{
-	"name": "r/Morroco flag alternate spot",
-	"sources": [
-		"https://cdn.discordapp.com/attachments/1131633763038793851/1132030304106848417/small_flag_v8.png"
-	],
-	"x": 476,
-	"y": 178
-}
+	  {
+	    "name": "r/Morroco flag alternate spot",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1131633763038793851/1132291153606213814/small_flag_v9.png"
+      ],
+      "x": 483,
+      "y": 178
+    }
   ],
   "whitelist": [],
   "blacklist": []
