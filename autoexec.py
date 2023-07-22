@@ -9,7 +9,7 @@ import time
 from msedge.selenium_tools import Edge, EdgeOptions
 
 
-credentials = [("liquidrekto","Dung6c@@"),("Dangerous_Machine221","bulultreem"),("Electrical-Public469","Minh123123123.")]
+credentials = [("user","pass")]
 
 
 
