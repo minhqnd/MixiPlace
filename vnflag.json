@@ -30,8 +30,8 @@
       "sources": [
         "https://raw.githubusercontent.com/LiquidRekto/rplacevnhideout/master/flappyvn.png"
       ],
-      "x": 1500,
-      "y": 1500
+      "x": 200,
+      "y": 200
     },
   ],
   "whitelist": [],
