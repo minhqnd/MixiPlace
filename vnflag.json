@@ -24,14 +24,6 @@
       ],
       "x": 230,
       "y": 1330
-    },
-    {
-      "name": "r/place VN flappy",
-      "sources": [
-        "https://cdn.discordapp.com/attachments/1131430494647636029/1132752982899966032/Flappy_bird_final_v3.png"
-      ],
-      "x": 1269,
-      "y": 1886
     }
   ],
   "whitelist": [],
