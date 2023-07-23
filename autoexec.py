@@ -1,19 +1,24 @@
 import selenium
 import os
-from selenium import webdriver
+import selenium.webdriver as sw
 import time
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 import threading
 import time
-from msedge.selenium_tools import Edge, EdgeOptions
+#from msedge.selenium_tools import Edge, EdgeOptions
 #import shutil
 #shutil.rmtree('D:\\Edge Data\\')
 #os.makedirs("D:\\Edge Data\\")
 
 
-credentials = [("usr","pass")]
+credentials = [
+    ("HVS_1", "H0vietsang2005"),
+    ("Express_Ad5978","VNvodich9901"),
+    ("Traditional_Name5952","AAbb123456cc"),
+    ("daddypunz","-j-PTS!rSt3Lc7D")
+    ]
 
 
 
@@ -27,7 +32,7 @@ def read_to_string(target_url):
     
 js = read_to_string("https://raw.githubusercontent.com/LiquidRekto/rplacevnhideout/master/us.js")
 
-def login(driver: webdriver.Edge | webdriver.Chrome | webdriver.Firefox, username: str, password: str):
+def login(driver: sw.Edge | sw.Chrome | sw.Firefox, username: str, password: str):
     # Đăng nhập vào reddit
     try:
         username_box = driver.find_element(By.ID, "loginUsername")
@@ -56,7 +61,7 @@ thread_list = list()
 
 # Start test
 for i in range(N):
-    edge_options = EdgeOptions()
+    edge_options = sw.Edge.EdgeOptions()
     edge_options.use_chromium = True
     edge_options.add_experimental_option("detach", True)
     edge_options.add_argument("-inprivate")
@@ -67,7 +72,7 @@ for i in range(N):
     # Specify the actual profile folder
     #edge_options.add_argument(f"profile-directory=My_Profile_{i}")
     edge_options.add_argument("--disable-dev-shm-usage")
-    driver = Edge(options=edge_options)
+    driver = sw.Edge(executable_path='MicrosoftWebDriver.exe',options=edge_options)
     driver.get("https://www.reddit.com/login/?dest=https%3A%2F%2Fwww.reddit.com%2Fr%2Fplace%2F%3Fscreenmode%3Dfullscreen%26cx%3D168%26cy%3D245%26px%3D19")
     
     t = threading.Thread(name='Test {}'.format(i), target=login, args=[driver,credentials[i][0],credentials[i][1]])

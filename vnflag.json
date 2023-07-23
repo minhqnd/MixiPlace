@@ -6,8 +6,8 @@
       "sources": [
         "https://raw.githubusercontent.com/LiquidRekto/rplacevnhideout/master/vntemp.png"
       ],
-      "x": 1148,
-      "y": 1231
+      "x": 1147,
+      "y": 1230
     },
     {
       "name": "r/Morroco flag alternate spot",
@@ -24,7 +24,15 @@
       ],
       "x": 230,
       "y": 1330
-    }
+    },
+	{
+      "name": "r/place VN flappy",
+      "sources": [
+        "https://raw.githubusercontent.com/LiquidRekto/rplacevnhideout/master/flappyvn.png"
+      ],
+      "x": 1500,
+      "y": 1500
+    },
   ],
   "whitelist": [],
   "blacklist": []
