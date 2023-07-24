@@ -4,26 +4,18 @@
     {
       "name": "r/place VN",
       "sources": [
-        "https://cdn.discordapp.com/attachments/1131430494647636029/1132798304518938684/vntemp..png"
+        "https://cdn.discordapp.com/attachments/1131430494647636029/1132913217715306516/VNFLAG.png"
       ],
-      "x": 1648,
-      "y": 1231
+      "x": 1647,
+      "y": 1230
     },
     {
-      "name": "r/Morroco flag alternate spot",
+      "name": "#2 3 miền",
       "sources": [
-        "https://cdn.discordapp.com/attachments/1131633763038793851/1132318941818146896/decorated_v5.png"
-      ],
-      "x": 472,
-      "y": 678
-    },
-    {
-      "name": "Projec #2 3 mien",
-      "sources": [
-        "https://cdn.discordapp.com/attachments/1131429845683937450/1132773464646877223/vietnam2.png"
+        "https://cdn.discordapp.com/attachments/1131430494647636029/1132911253115916348/2_vidk.png"
       ],
       "x": 130,
-      "y": 1065
+      "y": 935
     }
   ],
   "whitelist": [],
