@@ -1,23 +1,61 @@
 {
+
   "contact": "rPlaceVNTEST",
+
   "templates": [
+
     {
+
       "name": "r/place VN",
+
       "sources": [
+
         "https://cdn.discordapp.com/attachments/1131430494647636029/1132913217715306516/VNFLAG.png"
+
       ],
+
       "x": 1647,
+
       "y": 1230
+
     },
+
     {
+
       "name": "#2 3 miền",
+
       "sources": [
+
         "https://cdn.discordapp.com/attachments/1131430494647636029/1132911253115916348/2_vidk.png"
+
       ],
+
       "x": 130,
+
       "y": 935
+
+    },
+
+    {
+
+      "name": "The Final Collaboration",
+
+      "sources": [
+
+        "https://cdn.discordapp.com/attachments/1131429845683937450/1133014150675710092/collab.png"
+
+      ],
+
+      "x": 146,
+
+      "y": 300
+
     }
+
   ],
+
   "whitelist": [],
+
   "blacklist": []
+
 }
