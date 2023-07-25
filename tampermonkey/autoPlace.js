@@ -18,7 +18,7 @@
 // @downloadURL  https://place.staiy.live/autoplacer.user.js
 // ==/UserScript==
 
-const METADATA_URL = "https://mixiplace.minhquang.xyz/json/template.json";
+const METADATA_URL = "https://mixiplace.minhquang.xyz/json/templateAuto.json";
 
 let metadata;
 let overlayElement;
