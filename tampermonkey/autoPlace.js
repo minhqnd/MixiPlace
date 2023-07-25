@@ -13,12 +13,12 @@
 // @grant        GM_getValue
 // @grant        GM_setValue
 // @resource     TOASTIFY_STYLE https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css
-// @connect      place.staiy.live
+// @connect      mixiplace.minhquang.xyz
 // @updateURL    https://place.staiy.live/autoplacer.user.js
 // @downloadURL  https://place.staiy.live/autoplacer.user.js
 // ==/UserScript==
 
-const METADATA_URL = "../json/template.json";
+const METADATA_URL = "https://mixiplace.minhquang.xyz/json/template.json";
 
 let metadata;
 let overlayElement;
