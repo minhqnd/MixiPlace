@@ -3,7 +3,7 @@
     "overlays": [
             {
         "name": "MIXI PLACE fb.com/quangminhnd",
-        "image": "https://github.com/quangminhnd/MixiPlace/blob/main/MIXIFINAL-quangminhnd.png?raw=true",
+        "image": "https://mixiplace.minhquang.xyz/MIXIFINAL-quangminhnd.png",
         "x": 2375,
         "y": 1442
        }
