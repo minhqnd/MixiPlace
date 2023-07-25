@@ -24,7 +24,7 @@
 - Nếu bạn xài Opera: https://addons.opera.com/en/extensions/details/tampermonkey-beta/
 
 Chỉ cần nhấn vào Install Extension, bạn đã cài đặt được Tampermonkey cho trình duyệt của bạn. Đây là extension cần có để chạy tiếp 2 công cụ ở phía dưới đây. 
-## KHUNG OVERLAY
+## KHUNG OVERLAY VÀ AUTOPLACE
 
 *Khung overlay (hay template/ template - manager) là công cụ để các bạn có thể nhìn thấy những ô màu mà chúng mình cập nhật, từ đó các bạn sẽ biết vẽ ô nào là màu nào.*
 - Cài đặt: https://github.com/osuplace/templateManager/raw/main/dist/templateManager.user.js

@@ -269,7 +269,7 @@ const onReady = async () => {
 };
 
 const toggleAutoplace = async () => {
-    const newState = !(await GM_getValue("autoplace", false));
+    const newState = !(await GM_getValue("autoplace", true));
     await GM_setValue("autoplace", newState);
     showMessage("Autoplace is now " + (newState ? "enabled" : "disabled"), 2000);
 };
@@ -297,7 +297,7 @@ const update = async () => {
 };
 
 const attemptPlacingPixel = async () => {
-    if (!(await GM_getValue("autoplace", false))) return;
+    if (!(await GM_getValue("autoplace", true))) return;
     const nextTileAvailableIn = getStatusPillElement().nextTileAvailableIn;
     if (nextTileAvailableIn > 0) {
         showMessage("Next tile available in " + nextTileAvailableIn + " seconds", 1000);
