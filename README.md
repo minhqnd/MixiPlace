@@ -1,11 +1,17 @@
 # MixiPLACE r/mixifa | Hướng dẫn Overlay - Autoplace 
 *(Hướng dẫn gốc của [r/placevn](https://discord.gg/r-placevietnam-960076480916901948) và r/osuplace, cảm ơn mọi người)*
--------
+
 <h1 align="center">
   <img src="./MIXIFINAL-quangminhnd.png" alt="r/place vietnam">
 <br>
-  <a href="https://discord.gg/r-placevietnam-960076480916901948">Tham gia Discord MixiGaming và theo dõi trên các nguồn khác để tác chiến, mong các bạn không đánh đơn lẻ</a>
+  <a href="https://discord.com/invite/mixigaming">Tham gia Discord MixiGaming và theo dõi trên các nguồn khác để tác chiến, mong các bạn không đánh đơn lẻ</a>
 </h1>
+
+--------
+## Mục lục
+- [HƯỚNG DẪN CÀI ĐẶT CHO PC](/#hướng-dẫn-cài-đặt-cho-pc)
+- [Hướng dẫn chạy bot cho Android & iOS](/#hướng-dẫn-chạy-bot-cho-android--ios)
+- [FAQ](/#FAQ)
 
 ---------
 ## SAU ĐÂY SẼ LÀ HƯỚNG DẪN ĐỂ CÁC BẠN CÓ THỂ SỬ DỤNG ĐƯỢC CÁC CÔNG CỤ VẼ ARTWORK !
@@ -52,9 +58,9 @@ Lưu ý: Để Desktop mode (Chế độ máy tính) khi sử dụng tool.
 
 -----------------
 
-# FAQ
+## FAQ
 
-## Tình trạng overlay không trùng với khối.
+### Tình trạng overlay không trùng với khối.
 ![menu](https://media.discordapp.net/attachments/1131429845683937450/1131899383089217616/image.png?width=860&height=678)
 
 **KIỂM TRA ZOOM VÀ CHỈNH ZOOM CỦA TRANG WEB THÀNH 100%**, Nếu không phải thì thực hiện chỉnh "Scale & layout" trong windows setting xuống 100%
