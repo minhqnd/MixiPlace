@@ -14,8 +14,8 @@
 // @grant        GM_setValue
 // @resource     TOASTIFY_STYLE https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css
 // @connect      mixiplace.minhquang.xyz
-// @updateURL    https://place.staiy.live/autoplacer.user.js
-// @downloadURL  https://place.staiy.live/autoplacer.user.js
+// @updateURL    https://mixiplace.minhquang.xyz/tampermonkey/autoPlace.user.js
+// @downloadURL  https://mixiplace.minhquang.xyz/tampermonkey/autoPlace.user.js
 // ==/UserScript==
 
 const METADATA_URL = "https://mixiplace.minhquang.xyz/json/templateAuto.json";

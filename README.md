@@ -26,8 +26,7 @@ Chỉ cần nhấn vào Install Extension, bạn đã cài đặt được Tampe
 ## KHUNG OVERLAY VÀ AUTOPLACE
 
 *BÁM VÀO LINK VÀ CÀI ĐẶT. OVER*
-- Cài đặt: 
-https://mixiplace.minhquang.xyz/tampermonkey/autoPlace.js
+- Cài đặt: [https://mixiplace.minhquang.xyz/tampermonkey/autoPlace.user.js](https://mixiplace.minhquang.xyz/tampermonkey/autoPlace.user.js)
 
 ----------
 
@@ -37,7 +36,7 @@ Android:
 cài đặt Kiwibrowser hoặc Firefox, sau khi tải xong chọn phần ba chấm bên phải trên của màn hình, rồi bấm vào phần "Addons" rồi tìm extension "Tampermonkey" hay là "Violentmonkey", cả hai đều giống nhau.
 
 Sau đó click link này và chọn Install
-[https://mixiplace.minhquang.xyz/tampermonkey/autoPlace.js](https://mixiplace.minhquang.xyz/tampermonkey/autoPlace.js)
+[https://mixiplace.minhquang.xyz/tampermonkey/autoPlace.user.js](https://mixiplace.minhquang.xyz/tampermonkey/autoPlace.user.js)
 
 Sau đó, đăng nhập vào reddit rồi vào r/place, refresh một lần - nếu thấy chữ như bên dưới là thành công.
 
@@ -46,7 +45,7 @@ Lưu ý: Nhớ để chế độ Desktop mode cho trang web nhé
 ## iOS:
 Cài đặt gear: https://apps.apple.com/app/apple-store/id1458962238?pt=117321140&ct=website&mt=8
 
-Sau đó cài script Autoplacer: [https://mixiplace.minhquang.xyz/tampermonkey/autoPlace.js](https://mixiplace.minhquang.xyz/tampermonkey/autoPlace.js) (đã có sẵn tampermonkey trong browser)
+Sau đó cài script Autoplacer: [https://mixiplace.minhquang.xyz/tampermonkey/autoPlace.user.js](https://mixiplace.minhquang.xyz/tampermonkey/autoPlace.user.js) (đã có sẵn tampermonkey trong browser)
 
 Install và sau khi được thì đăng nhập reddit, chạy trên browser mode (nút ổ khoá) và vào rplace - nếu thấy chữ như bên dưới là thành công
 
