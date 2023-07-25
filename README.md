@@ -26,7 +26,8 @@ Chỉ cần nhấn vào Install Extension, bạn đã cài đặt được Tampe
 ## KHUNG OVERLAY VÀ AUTOPLACE
 
 *BÁM VÀO LINK VÀ CÀI ĐẶT. OVER*
-- Cài đặt: [https://mixiplace.minhquang.xyz/tampermonkey/autoPlace.js](https://mixiplace.minhquang.xyz/tampermonkey/autoPlace.js)
+- Cài đặt: 
+https://mixiplace.minhquang.xyz/tampermonkey/autoPlace.js
 
 ----------
 
