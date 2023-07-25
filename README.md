@@ -8,7 +8,6 @@
 
 
 # SAU ĐÂY SẼ LÀ HƯỚNG DẪN ĐỂ CÁC BẠN CÓ THỂ SỬ DỤNG ĐƯỢC CÁC CÔNG CỤ VẼ ARTWORK !
-- Hướng dẫn cho PC
 
 # HƯỚNG DẪN CÀI ĐẶT CHO PC
 
