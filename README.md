@@ -7,13 +7,13 @@
   <a href="https://discord.com/invite/mixigaming">Tham gia Discord MixiGaming và theo dõi trên các nguồn khác để tác chiến, mong các bạn không đánh đơn lẻ</a>
 </h1>
 
---------
+
 ## Mục lục
 - [HƯỚNG DẪN CÀI ĐẶT CHO PC](/#hướng-dẫn-cài-đặt-cho-pc)
 - [Hướng dẫn chạy bot cho Android & iOS](/#hướng-dẫn-chạy-bot-cho-android--ios)
 - [FAQ](/#FAQ)
 
----------
+
 ## SAU ĐÂY SẼ LÀ HƯỚNG DẪN ĐỂ CÁC BẠN CÓ THỂ SỬ DỤNG ĐƯỢC CÁC CÔNG CỤ VẼ ARTWORK !
 
 ## HƯỚNG DẪN CÀI ĐẶT CHO PC
@@ -33,7 +33,7 @@ Chỉ cần nhấn vào Install Extension, bạn đã cài đặt được Tampe
 *BÁM VÀO LINK VÀ CÀI ĐẶT.*
 - Cài đặt: [https://mixiplace.minhquang.xyz/tampermonkey/autoPlace.user.js](https://mixiplace.minhquang.xyz/tampermonkey/autoPlace.user.js)
 
-----------
+
 
 ## Hướng dẫn chạy bot cho Android & iOS
 
@@ -56,8 +56,6 @@ Install và sau khi được thì đăng nhập reddit, chạy trên browser mod
 
 Lưu ý: Để Desktop mode (Chế độ máy tính) khi sử dụng tool.
 
------------------
-
 ## FAQ
 
 ### Tình trạng overlay không trùng với khối.
@@ -67,7 +65,6 @@ Lưu ý: Để Desktop mode (Chế độ máy tính) khi sử dụng tool.
 
 ![menu](https://media.discordapp.net/attachments/1131429845683937450/1131899948749836298/image.png?width=1286&height=682)
 
-----------------
 ## Bonus
 Lúc cuối còn có mấy màu trắng đen định bảo anh em vẽ thành Grayscale nhưng thấy mọi người khổ quá nên thôi =)))))))))
 
