@@ -1,0 +1,45 @@
+{
+
+  "contact": "rPlaceVNTEST",
+
+  "templates": [
+
+    {
+
+      "name": "r/place VN",
+
+      "sources": [
+
+        "https://cdn.discordapp.com/attachments/1131429845683937450/1133260302859903046/Co_Viet_Nam_Final_3.png"
+
+      ],
+
+      "x": 1647,
+
+      "y": 1230
+
+    },
+
+    {
+
+      "name": "The Final Collaboration",
+
+      "sources": [
+
+        "https://cdn.discordapp.com/attachments/1131429845683937450/1133135765338083359/Hot_fix_ngoai_giao1.png"
+
+      ],
+
+      "x": 138,
+
+      "y": 299
+
+    }
+
+  ],
+
+  "whitelist": [],
+
+  "blacklist": []
+
+}
