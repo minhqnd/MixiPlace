@@ -1,10 +1,42 @@
+*(Hướng dẫn gốc của [r/placevn](https://discord.gg/r-placevietnam-960076480916901948) và r/osuplace, cảm ơn mọi người)*
+-------
 <h1 align="center">
-  <img src="https://i.imgur.com/cJ6WYtE.png" alt="r/place vietnam">
+  <img src="./img/MIXIFINAL-quangminhnd.png" alt="r/place vietnam">
 
-  <a href="https://discord.gg/r-placevietnam-960076480916901948">Vào server Discord của r/placevietnam để cập nhật những thông tin mới nhất!</a>
-  
-  Lưu ý: KHÔNG dùng được trên điện thoại
+  <a href="https://discord.gg/r-placevietnam-960076480916901948">Tham gia Discord MixiGaming và theo dõi trên các nguồn khác để tác chiến, mong các bạn không đánh đơn lẻ</a>
 </h1>
+
+
+# SAU ĐÂY SẼ LÀ HƯỚNG DẪN ĐỂ CÁC BẠN CÓ THỂ SỬ DỤNG ĐƯỢC CÁC CÔNG CỤ VẼ ARTWORK !
+
+## TAMPERMONKEY
+
+
+*Tampermonkey là công cụ để bạn có thể manipulate những gì bạn thấy trên trang web của mình.*
+
+### Cài đặt: 
+
+- Nếu bạn xài Chrome: https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo
+- Nếu bạn xài Edge: https://microsoftedge.microsoft.com/addons/detail/iikmkjmpaadaobahmlepeloendndfphd
+- Nếu bạn xài Firefox: https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/
+- Nếu bạn xài Safari: https://apps.apple.com/us/app/tampermonkey/id1482490089
+- Nếu bạn xài Opera: https://addons.opera.com/en/extensions/details/tampermonkey-beta/
+
+Chỉ cần nhấn vào Install Extension, bạn đã cài đặt được Tampermonkey cho trình duyệt của bạn. Đây là extension cần có để chạy tiếp 2 công cụ ở phía dưới đây. 
+## KHUNG OVERLAY
+
+*Khung overlay (hay template/ template - manager) là công cụ để các bạn có thể nhìn thấy những ô màu mà chúng mình cập nhật, từ đó các bạn sẽ biết vẽ ô nào là màu nào.*
+- Cài đặt: https://github.com/osuplace/templateManager/raw/main/dist/templateManager.user.js
+![Tampermonkey](img/tampermk.png)
+
+- Click vào link bên trên -> Nhấn Install khi tab mới hiện ra
+Image
+- Vào trang chủ của sự kiện r/place (reddit.com/r/place), sẽ thấy nút settings màu trắng trôi lơ lững như bên dưới. Click vào đó sẽ hiện ra menu như hình dưới.
+Image
+Tại ô "Template URL", paste đường link bên dưới vào và bấm "Always Load". Sau khi F5 lại trang, bạn sẽ thấy những chấm cần tô hiện đè (overlay) trên màn hình r/place
+
+Link: https://raw.githubusercontent.com/LiquidRekto/rplacevnhideout/master/vnflag.json
+Image
 
 
 Đây là file JSON (chính thức?) của r/placevietnam.
