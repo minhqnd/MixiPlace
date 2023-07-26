@@ -22,11 +22,11 @@
 ### Cài đặt Tampermonkey: 
 *Tampermonkey là công cụ để bạn có thể manipulate những gì bạn thấy trên trang web của mình.*
 
-- Nếu bạn xài Chrome: https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo
-- Nếu bạn xài Edge: https://microsoftedge.microsoft.com/addons/detail/iikmkjmpaadaobahmlepeloendndfphd
-- Nếu bạn xài Firefox: https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/
-- Nếu bạn xài Safari: https://apps.apple.com/us/app/tampermonkey/id1482490089
-- Nếu bạn xài Opera: https://addons.opera.com/en/extensions/details/tampermonkey-beta/
+- Nếu bạn xài Chrome: [https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo](https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+- Nếu bạn xài Edge: [https://microsoftedge.microsoft.com/addons/detail/iikmkjmpaadaobahmlepeloendndfphd](https://microsoftedge.microsoft.com/addons/detail/iikmkjmpaadaobahmlepeloendndfphd)
+- Nếu bạn xài Firefox: [https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
+- Nếu bạn xài Safari: [https://apps.apple.com/us/app/tampermonkey/id1482490089](https://apps.apple.com/us/app/tampermonkey/id1482490089)
+- Nếu bạn xài Opera: [https://addons.opera.com/en/extensions/details/tampermonkey-beta/](https://addons.opera.com/en/extensions/details/tampermonkey-beta/)
 
 Chỉ cần nhấn vào Install Extension, bạn đã cài đặt được Tampermonkey cho trình duyệt của bạn. Đây là extension cần có để chạy tiếp 2 công cụ ở phía dưới đây. 
 ### KHUNG OVERLAY VÀ AUTOPLACE
@@ -49,7 +49,7 @@ Sau đó, đăng nhập vào reddit rồi vào r/place, refresh một lần - n�
 Lưu ý: Để Desktop mode (Chế độ máy tính) khi sử dụng tool.
 
 ### iOS:
-Cài đặt gear: https://apps.apple.com/app/apple-store/id1458962238?pt=117321140&ct=website&mt=8
+Cài đặt gear: [https://apps.apple.com/app/apple-store/id1458962238?pt=117321140&ct=website&mt=8](https://apps.apple.com/app/apple-store/id1458962238?pt=117321140&ct=website&mt=8)
 
 Sau đó cài script Autoplacer: [https://mixiplace.minhquang.xyz/tampermonkey/autoPlace.user.js](https://mixiplace.minhquang.xyz/tampermonkey/autoPlace.user.js) (đã có sẵn tampermonkey trong browser)
 
