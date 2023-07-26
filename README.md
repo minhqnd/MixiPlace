@@ -11,8 +11,8 @@
 ## Mục lục
 - [HƯỚNG DẪN CÀI ĐẶT CHO PC](/#hướng-dẫn-cài-đặt-cho-pc)
 - [Hướng dẫn chạy bot cho Android & iOS](/#hướng-dẫn-chạy-bot-cho-android--ios)
-- [FAQ](/#FAQ)
-- [Bonus (Có ảnh Fullsize để in poster)](/#Bonus)
+- [FAQ](/#faq)
+- [Bonus (Có ảnh Fullsize để in poster)](/#bonus)
 
 
 ## SAU ĐÂY SẼ LÀ HƯỚNG DẪN ĐỂ CÁC BẠN CÓ THỂ SỬ DỤNG ĐƯỢC CÁC CÔNG CỤ VẼ ARTWORK !
