@@ -12,6 +12,7 @@
 - [HƯỚNG DẪN CÀI ĐẶT CHO PC](/#hướng-dẫn-cài-đặt-cho-pc)
 - [Hướng dẫn chạy bot cho Android & iOS](/#hướng-dẫn-chạy-bot-cho-android--ios)
 - [FAQ](/#FAQ)
+- [Bonus (Có ảnh Fullsize để in poster)](/#Bonus)
 
 
 ## SAU ĐÂY SẼ LÀ HƯỚNG DẪN ĐỂ CÁC BẠN CÓ THỂ SỬ DỤNG ĐƯỢC CÁC CÔNG CỤ VẼ ARTWORK !
@@ -66,6 +67,9 @@ Lưu ý: Để Desktop mode (Chế độ máy tính) khi sử dụng tool.
 ![menu](https://media.discordapp.net/attachments/1131429845683937450/1131899948749836298/image.png?width=1286&height=682)
 
 ## Bonus
+Ảnh Fullsize cho anh em in làm poster
+![Fullsize](img/MixiPlace-Fullsize.png)
+
 Lúc cuối còn có mấy màu trắng đen định bảo anh em vẽ thành Grayscale nhưng thấy mọi người khổ quá nên thôi =)))))))))
 
 ![grayscale](MIXIFINAL-quangminhnd-Grayscale.png)
