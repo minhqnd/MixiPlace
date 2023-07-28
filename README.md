@@ -74,5 +74,7 @@ Lúc cuối còn có mấy màu trắng đen định bảo anh em vẽ thành Gr
 
 ![grayscale](MIXIFINAL-quangminhnd-Grayscale.png)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V581EVG)
+
 
 
